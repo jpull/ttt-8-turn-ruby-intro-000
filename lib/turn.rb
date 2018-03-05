@@ -20,7 +20,6 @@ end
 
 def move(board,index,turn)
   board[index] = turn
-  board
 end
 
 def turn(board)
